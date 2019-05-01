@@ -1,0 +1,18 @@
+div.inline {
+    float:left;
+    width 300px;
+    height: 300px;
+}
+input{
+    background-color: #red;
+    border: 2px solid #888;
+    border-radius: 2px;
+    height: 56px;
+    width: 100%;
+    font-size: 24px;
+    padding: 0 16px;
+    margin-bottom: 24px;
+    }
+.inline{
+    padding: 20px;
+}
